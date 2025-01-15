@@ -73,6 +73,7 @@ body {
   font-size: 1.2rem;
 }
 .testimonial .user .user-info .user-title {
+  display: block;
   opacity: 0.5;
 }
 .testimonial .testimonial-caption {
